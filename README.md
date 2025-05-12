@@ -1,0 +1,2 @@
+# bhaskara.biel
+calculando delta
